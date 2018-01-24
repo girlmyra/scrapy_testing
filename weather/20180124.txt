@@ -1,0 +1,294 @@
+City is: shenzhen	
+Date is:24日（今天）	
+temperature:21/16℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:24日（今天）	
+temperature:-4/-11℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:25日（明天）	
+temperature:20/16℃	weather:阴	wind:<3级	
+City is: beijing	
+Date is:25日（明天）	
+temperature:-3/-9℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:26日（后天）	
+temperature:19/16℃	weather:小雨	wind:<3级	
+City is: beijing	
+Date is:26日（后天）	
+temperature:-3/-10℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:27日（周六）	
+temperature:18/15℃	weather:小雨转阴	wind:<3级	
+City is: beijing	
+Date is:27日（周六）	
+temperature:-1/-9℃	weather:多云转晴	wind:<3级	
+City is: shenzhen	
+Date is:28日（周日）	
+temperature:20/10℃	weather:阴转小雨	wind:<3级转3-4级	
+City is: beijing	
+Date is:28日（周日）	
+temperature:0/-8℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:29日（周一）	
+temperature:16/9℃	weather:小雨	wind:3-4级	
+City is: beijing	
+Date is:29日（周一）	
+temperature:1/-7℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:30日（周二）	
+temperature:13/7℃	weather:小雨转中雨	wind:3-4级	
+City is: beijing	
+Date is:30日（周二）	
+temperature:4/-5℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:24日（今天）	
+temperature:21/16℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:24日（今天）	
+temperature:-4/-11℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:25日（明天）	
+temperature:20/16℃	weather:阴	wind:<3级	
+City is: beijing	
+Date is:25日（明天）	
+temperature:-3/-9℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:26日（后天）	
+temperature:19/16℃	weather:小雨	wind:<3级	
+City is: beijing	
+Date is:26日（后天）	
+temperature:-3/-10℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:27日（周六）	
+temperature:18/15℃	weather:小雨转阴	wind:<3级	
+City is: beijing	
+Date is:27日（周六）	
+temperature:-1/-9℃	weather:多云转晴	wind:<3级	
+City is: shenzhen	
+Date is:28日（周日）	
+temperature:20/10℃	weather:阴转小雨	wind:<3级转3-4级	
+City is: beijing	
+Date is:28日（周日）	
+temperature:0/-8℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:29日（周一）	
+temperature:16/9℃	weather:小雨	wind:3-4级	
+City is: beijing	
+Date is:29日（周一）	
+temperature:1/-7℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:30日（周二）	
+temperature:13/7℃	weather:小雨转中雨	wind:3-4级	
+City is: beijing	
+Date is:30日（周二）	
+temperature:4/-5℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:24日（今天）	
+temperature:-4/-11℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:24日（今天）	
+temperature:21/16℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:25日（明天）	
+temperature:-3/-9℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:25日（明天）	
+temperature:20/16℃	weather:阴	wind:<3级	
+City is: beijing	
+Date is:26日（后天）	
+temperature:-3/-10℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:26日（后天）	
+temperature:19/16℃	weather:小雨	wind:<3级	
+City is: beijing	
+Date is:27日（周六）	
+temperature:-1/-9℃	weather:多云转晴	wind:<3级	
+City is: shenzhen	
+Date is:27日（周六）	
+temperature:18/15℃	weather:小雨转阴	wind:<3级	
+City is: beijing	
+Date is:28日（周日）	
+temperature:0/-8℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:28日（周日）	
+temperature:20/10℃	weather:阴转小雨	wind:<3级转3-4级	
+City is: beijing	
+Date is:29日（周一）	
+temperature:1/-7℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:29日（周一）	
+temperature:16/9℃	weather:小雨	wind:3-4级	
+City is: beijing	
+Date is:30日（周二）	
+temperature:4/-5℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:30日（周二）	
+temperature:13/7℃	weather:小雨转中雨	wind:3-4级	
+City is: shenzhen	
+Date is:24日（今天）	
+temperature:21/16℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:24日（今天）	
+temperature:-4/-11℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:25日（明天）	
+temperature:20/16℃	weather:阴	wind:<3级	
+City is: beijing	
+Date is:25日（明天）	
+temperature:-3/-9℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:26日（后天）	
+temperature:19/16℃	weather:小雨	wind:<3级	
+City is: beijing	
+Date is:26日（后天）	
+temperature:-3/-10℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:27日（周六）	
+temperature:18/15℃	weather:小雨转阴	wind:<3级	
+City is: beijing	
+Date is:27日（周六）	
+temperature:-1/-9℃	weather:多云转晴	wind:<3级	
+City is: shenzhen	
+Date is:28日（周日）	
+temperature:20/10℃	weather:阴转小雨	wind:<3级转3-4级	
+City is: beijing	
+Date is:28日（周日）	
+temperature:0/-8℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:29日（周一）	
+temperature:16/9℃	weather:小雨	wind:3-4级	
+City is: beijing	
+Date is:29日（周一）	
+temperature:1/-7℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:30日（周二）	
+temperature:13/7℃	weather:小雨转中雨	wind:3-4级	
+City is: beijing	
+Date is:30日（周二）	
+temperature:4/-5℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:24日（今天）	
+temperature:21/16℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:24日（今天）	
+temperature:-4/-11℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:25日（明天）	
+temperature:20/16℃	weather:阴	wind:<3级	
+City is: beijing	
+Date is:25日（明天）	
+temperature:-3/-9℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:26日（后天）	
+temperature:19/16℃	weather:小雨	wind:<3级	
+City is: beijing	
+Date is:26日（后天）	
+temperature:-3/-10℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:27日（周六）	
+temperature:18/15℃	weather:小雨转阴	wind:<3级	
+City is: beijing	
+Date is:27日（周六）	
+temperature:-1/-9℃	weather:多云转晴	wind:<3级	
+City is: shenzhen	
+Date is:28日（周日）	
+temperature:20/10℃	weather:阴转小雨	wind:<3级转3-4级	
+City is: beijing	
+Date is:28日（周日）	
+temperature:0/-8℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:29日（周一）	
+temperature:16/9℃	weather:小雨	wind:3-4级	
+City is: beijing	
+Date is:29日（周一）	
+temperature:1/-7℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:30日（周二）	
+temperature:13/7℃	weather:小雨转中雨	wind:3-4级	
+City is: beijing	
+Date is:30日（周二）	
+temperature:4/-5℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:24日（今天）	
+temperature:21/16℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:24日（今天）	
+temperature:-4/-11℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:25日（明天）	
+temperature:20/16℃	weather:阴	wind:<3级	
+City is: beijing	
+Date is:25日（明天）	
+temperature:-3/-9℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:26日（后天）	
+temperature:19/16℃	weather:小雨	wind:<3级	
+City is: beijing	
+Date is:26日（后天）	
+temperature:-3/-10℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:27日（周六）	
+temperature:18/15℃	weather:小雨转阴	wind:<3级	
+City is: beijing	
+Date is:27日（周六）	
+temperature:-1/-9℃	weather:多云转晴	wind:<3级	
+City is: shenzhen	
+Date is:28日（周日）	
+temperature:20/10℃	weather:阴转小雨	wind:<3级转3-4级	
+City is: beijing	
+Date is:28日（周日）	
+temperature:0/-8℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:29日（周一）	
+temperature:16/9℃	weather:小雨	wind:3-4级	
+City is: beijing	
+Date is:29日（周一）	
+temperature:1/-7℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:30日（周二）	
+temperature:13/7℃	weather:小雨转中雨	wind:3-4级	
+City is: beijing	
+Date is:30日（周二）	
+temperature:4/-5℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:24日（今天）	
+temperature:21/16℃	weather:多云	wind:<3级	
+City is: beijing	
+Date is:24日（今天）	
+temperature:-4/-11℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:25日（明天）	
+temperature:20/16℃	weather:阴	wind:<3级	
+City is: beijing	
+Date is:25日（明天）	
+temperature:-3/-9℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:26日（后天）	
+temperature:19/16℃	weather:小雨	wind:<3级	
+City is: beijing	
+Date is:26日（后天）	
+temperature:-3/-10℃	weather:多云	wind:<3级	
+City is: shenzhen	
+Date is:27日（周六）	
+temperature:18/15℃	weather:小雨转阴	wind:<3级	
+City is: beijing	
+Date is:27日（周六）	
+temperature:-1/-9℃	weather:多云转晴	wind:<3级	
+City is: shenzhen	
+Date is:28日（周日）	
+temperature:20/10℃	weather:阴转小雨	wind:<3级转3-4级	
+City is: beijing	
+Date is:28日（周日）	
+temperature:0/-8℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:29日（周一）	
+temperature:16/9℃	weather:小雨	wind:3-4级	
+City is: beijing	
+Date is:29日（周一）	
+temperature:1/-7℃	weather:晴	wind:<3级	
+City is: shenzhen	
+Date is:30日（周二）	
+temperature:13/7℃	weather:小雨转中雨	wind:3-4级	
+City is: beijing	
+Date is:30日（周二）	
+temperature:4/-5℃	weather:多云	wind:<3级	
